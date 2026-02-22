@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AxxessGuard/Assets.xcassets/axxess_banner.png" alt="AxxessGuard Banner" width="160"/>
+  <img src="AxxessGuard/Assets.xcassets/axxess_banner.png" alt="AxxessGuard Banner"/>
 </p>
 
 # AxxessGuard
