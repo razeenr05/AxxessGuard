@@ -76,7 +76,7 @@ AxxessGuard/
 
 | Service | Usage |
 |---|---|
-| **Featherless AI** | Serverless LLM inference endpoint — OpenAI-compatible API |
+| **Featherless AI** | Serverless LLM inference endpoint |
 | **Meta LLaMA 3.1 8B Instruct** | The underlying model used for all AI features |
 
 > All AI calls are made via plain `URLSession` REST requests — **zero third party Swift packages required.**
@@ -202,6 +202,16 @@ These are directly supported through the condition selectors in the Lifestyle Co
 | **Post-Operative Recovery** | "Post-Operative" is a selectable condition, causing the AI to generate conservative recovery appropriate plans, avoiding strenuous activity and recommending nutrition that supports healing. The risk model also factors this in when assessing vitals. |
 
 ---
+
+## Future Features
+- Add age, weight, and sex input so AI model has better context to work with
+- Improve conversation history for the chatbot — pass previous messages to the AI so it remembers context within a session
+- Fix some notification issues when entering user input
+- Tweak fall detection algorithm
+- Onboarding flow for profile input
+- Historical vital charts shwoing range from past days
+- Possible watch app companion
+
 
 ## Devpost & Video Demo
 https://devpost.com/software/axxessguard
