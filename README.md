@@ -12,6 +12,8 @@
 
 AxxessGuard is an iOS application that acts as a proactive, AI-powered personal health companion. It collects real-time vitals from Apple HealthKit, analyzes them using a large language model, detects potential falls, and sends smart health alerts; all in one unified experience!
 
+Our DevPost & Video Demo: https://devpost.com/software/axxessguard https://www.youtube.com/shorts/ttEiJdkgv7Y
+
 ---
 
 ## Features
@@ -211,8 +213,3 @@ These are directly supported through the condition selectors in the Lifestyle Co
 - Onboarding flow for profile input
 - Historical vital charts shwoing range from past days
 - Possible watch app companion
-
-
-## Devpost & Video Demo
-https://devpost.com/software/axxessguard
-https://www.youtube.com/shorts/ttEiJdkgv7Y
